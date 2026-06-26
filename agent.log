@@ -1,0 +1,4 @@
+2026-05-07 14:31:37,581 INFO Telemetry prepared: {"osVersion": "Windows 11 10.0.26200", "cpuInfo": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD", "ramInfo": "7.35 GB", "processes": ["<redacted count only>"], "timestamp": "2026-05-07T09:01:37.581955+00:00"}
+2026-05-07 14:31:37,634 INFO Telemetry sent successfully: {'accepted': True, 'message': 'Telemetry received for local cybersecurity education lab.', 'id': 'i7559bgkmov9bnbx', 'receivedAt': '2026-05-07T09:01:37.629Z'}
+2026-05-11 18:23:44,225 INFO Telemetry prepared: {"osVersion": "Windows 11 10.0.26200", "cpuInfo": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD", "ramInfo": "7.35 GB", "processes": ["<redacted count only>"], "timestamp": "2026-05-11T12:53:44.225031+00:00"}
+2026-05-11 18:23:44,297 INFO Telemetry sent successfully: {'accepted': True, 'message': 'Telemetry received for local cybersecurity education lab.', 'id': 'xpo2zrlvmp17djvk', 'receivedAt': '2026-05-11T12:53:44.288Z'}
